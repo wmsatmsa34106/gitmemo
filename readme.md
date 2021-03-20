@@ -16,6 +16,9 @@
 - CI rel.
     - Win: https://github.com/git-for-windows/git/releases
         - ..
+    - git for windows 2.31
+        - Date : 2021/03/16
+        - https://github.com/git-for-windows/git/releases/tag/v2.31.0.windows.1
     - git for windows 2.30
         - Date : 2021/01/14
         - https://github.com/git-for-windows/git/releases/tag/v2.30.0.windows.2
